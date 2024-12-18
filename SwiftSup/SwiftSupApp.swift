@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftSupApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RegistrationView()
         }
     }
 }
